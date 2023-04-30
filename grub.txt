@@ -32,3 +32,4 @@ GRUB_GFXMODE="1024x768x24"
 # Uncomment to get a beep at grub start
 #GRUB_INIT_TUNE="480 440 1"
 GRUB_THEME="/boot/grub/themes/nks-grub/theme.txt"
+GRUB_FONT="/boot/grub/themes/nks-grub/grub.pf2"

@@ -15,11 +15,11 @@ terminal-border: "0"
 
 # Show the boot menu
 + boot_menu {
-  left = 50%
+  left = 10%
   top = 50%
-  width = 55%
+  width = 95%
   height = 80%
-  item_font = "Orbitron Regular 20"
+  item_font = "Orbitron Regular 16"
   item_color = "#cccccc"
   selected_item_color = "#57cfff"
   item_height = 24

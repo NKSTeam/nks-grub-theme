@@ -1,9 +1,5 @@
 # NKSOS-Grub-theme
 
-## AUTHOR
+## 元となったテーマ
 
-[AUTHOR](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
-
-## About Font
-
-Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>, with Reserved Font Name: "Orbitron".
+[元のテーマ](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
